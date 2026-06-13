@@ -1,5 +1,15 @@
-## Hi, I’m Ingrid 👋👩🏻‍💻
+## hi, I’m ingrid 👋🥳
 
-I’m a Computer Science student at Purdue University, graduating May 2026, with experience in full-stack development, applied machine learning, and software engineering.
-I enjoy building end-to-end systems and working across the stack — from user-facing applications to backend services, data pipelines, and ML-driven solutions.
-Check out my projects and portfolio on my profile!
+AI Fellow @ Eli Lilly • Purdue CS '26
+
+---
+
+**outside the terminal**
+
+- 🎵 probably making a playlist right now
+- 📚 always in the middle of a book
+- 🧋 boba is a food group
+
+---
+
+*open to connecting — especially with people building at the intersection of AI and real-world impact.*
